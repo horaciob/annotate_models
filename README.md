@@ -15,7 +15,7 @@ gem "annotate_models"
 Otherwise, run this command:
 
 ```
-gem install annotate_models"
+gem install annotate_models
 ```
 
 ## Usage
