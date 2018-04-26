@@ -1,6 +1,6 @@
 # annotate_models
 
-This is my own re-write of an earlier version [ctran/annoate_models](https://github.com/ctran/annotate_models) when
+This is my own re-write of an earlier version [ctran/annotate_models](https://github.com/ctran/annotate_models) when
 work on it waned.  This work started out as a Rails plugin; I am now re-bundling it as a gem since plugin support for Rails has
 long been deprecated.
 
